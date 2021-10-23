@@ -1,0 +1,41 @@
+ vscode
+	SEMPRE INSTALAR O PATH
+
+ABA WELCOME (desabilitar no rodape para não abrir a aba)
+	Start
+		new file
+		open folder
+	
+	Recent Archives
+	
+	Help
+
+Open Editors
+	mostra os arquivos abertos no editor no VScode
+
+Lupa ( pesquisa)
+
+Source COntrol
+	Integração com GitHUb
+
+Debug
+	run e debug (terminal)
+
+Extensions
+	São utilizados para instalar suas preferencias e plugis favoritos.
+
+
+* Preferencias (Settings)
+	Aumentar Fonte
+	tab size (identação) (crtl + {} altera os "tabs")
+
+É possível selecionar várias linhas pressionando a tecla "ALT" no vscode
+
+	Wordwrap - configura a quebra de linha de forma automática e também é possível "setar" em quantas colunas você deseja que seu codigo tenha quebra.
+
+Quando pressionar as teclas "CRTL + P" o VScode abre uma busca de arquivos.
+
+Ao pressionar as teclas " CRTL + SHIFT + P" o VScode abre uma lista de comandos do VScode e também das extensões intaladas.
+
+Para verificar todos os comandos do teclado no VScode, seguir o caminho:
+	Arquivo(file) > Preferencias(preferences) > Atalhos do Teclado (Keyboardos Shortcuts).
